@@ -1,0 +1,4 @@
+*/venv/
+*Data\ Science/FinalProject/fp-venv/
+.DS_Store
+*.numbers
